@@ -1,1 +1,18 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Projects:
+
+Below is a _list_ of my **previows and current projects**:
+
+## Games:
+ - Tome of Dungeons:
+   - Programing Language: C++
+   - Graphics: ASCII Art
+ - Timber!!!
+    - Programing Language: C++
+    - Includes sprites, sounds   
+    - Programing Language: Python
+ - Text RPG:
+    - Graphics: Text
+## Webpages:
+   - My Portfolio Webpage
+   - GitHub Portfolio Webpage
+   - My Blog
