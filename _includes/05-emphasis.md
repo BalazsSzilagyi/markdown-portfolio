@@ -12,6 +12,7 @@ Below is a _list_ of my **previows and current projects**:
     - Programing Language: Python
  - Text RPG:
     - Graphics: Text
+    
 ## Webpages:
    - My Portfolio Webpage
    - GitHub Portfolio Webpage
